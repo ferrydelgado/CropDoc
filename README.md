@@ -1,6 +1,8 @@
 # CropDoc
 This project is focused on the control and monitoring of plant pests and diseases. Especially focused on agriculture, for the detection and geolocation of these infections, and to avoid their spread. 
+
 ![alt text](https://1.bp.blogspot.com/-S9-7G-jMrcQ/YSasENuSh-I/AAAAAAAIwSc/kqLe55GS0lw4h9Z7Q3Cj3aJa2Wppb5tAwCLcBGAsYHQ/w640-h456/agtricorder.jpeg)
+
 It generates a Liquid Galaxy visualization from data gathered from devices on the field used by the farmers that are able to examine the leaves of the plants looking for any defects caused by these diseases.
 
 TECHNOLOGIES USED:
